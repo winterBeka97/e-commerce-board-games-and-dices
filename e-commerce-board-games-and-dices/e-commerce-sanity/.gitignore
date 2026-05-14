@@ -1,3 +1,4 @@
+#Ignore these folders and files
 node-modules/
 package-lock.json
 yarn.lock
