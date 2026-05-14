@@ -1,5 +1,9 @@
-# Needs To Be Added
-- Add Sanity database and create sanity.config.ts and sanity.config.js``
+# Sanity Contents 
+- Sanity database is active and I builded sanity.config.ts and sanity.config.js using 'npx sanity build', so they are created on build up.
+
+# To Do
+- Migrate from Sanity v2 to Sanity v3
+
 
 # Sanity Clean Content Studio
 
